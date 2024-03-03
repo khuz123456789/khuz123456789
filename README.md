@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @khuz123456789
+- 👋 Hi, I’m khuzaima ali khan
 - 👀 I’m interested in Ai
 - 🌱 I’m currently learning python and typescript
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate for intership
 - 📫 How to reach me contact me on my gmail = helloeluv@gmail.com
 - 😄 Pronouns: he/himm
 - ⚡ Fun fact: I'm only 15 year old
